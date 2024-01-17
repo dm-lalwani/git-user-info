@@ -1,0 +1,21 @@
+{
+  "name": "git-user-info",
+  "version": "1.0.0",
+  "description": "Get repo list & user info by username",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "author": "DM Lalwani",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.21.2"
+  }
+}
